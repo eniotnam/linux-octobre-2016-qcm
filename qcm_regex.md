@@ -40,21 +40,40 @@ C
 
 ## Q13
 B ou C
-remarque : les 2 fonctionnent
+
+```
+Remarque : 
+les 2 fonctionnent
+```
 
 ## Q14
 D
 
 ## Q15
 B
-remarque : http://regexr.com/3eh6u
+
+```
+Remarque : 
+http://regexr.com/3eh6u
+```
 
 ## Q16
 B
-remarque : http://regexr.com/3eh71
+
+```
+Remarque : 
+http://regexr.com/3eh71
+```
 
 ## Q17
 B
 
 La suite a faire
 
+## Q18
+
+
+## Q19
+B
+
+## Q20
