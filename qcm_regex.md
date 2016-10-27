@@ -68,8 +68,6 @@ http://regexr.com/3eh71
 ## Q17
 B
 
-La suite a faire
-
 ## Q18
 
 
@@ -77,3 +75,9 @@ La suite a faire
 B
 
 ## Q20
+C
+
+```
+Remarque : 
+http://regexr.com/3ehc3
+```
