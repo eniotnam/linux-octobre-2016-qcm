@@ -17,6 +17,11 @@ C
 ## Q5
 B
 
+```
+Remarque : 
+http://regexr.com/3ehcr
+```
+
 ## Q6
 D
 
