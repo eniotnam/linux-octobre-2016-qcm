@@ -69,10 +69,20 @@ http://regexr.com/3eh71
 B
 
 ## Q18
+C
 
+```
+Remarque : 
+http://regexr.com/3ehci
+```
 
 ## Q19
 B
+
+```
+Remarque : 
+http://regexr.com/3ehc6
+```
 
 ## Q20
 C
