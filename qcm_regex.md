@@ -66,7 +66,12 @@ http://regexr.com/3eh71
 ```
 
 ## Q17
-B
+A
+
+```
+Remarque : 
+http://regexr.com/3ehcl
+```
 
 ## Q18
 C
