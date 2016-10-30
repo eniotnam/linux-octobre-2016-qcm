@@ -88,7 +88,7 @@ root@23e3c788b11a:/# // jules n'existe plus
 
 
 ## Q9
-
+C
 
 ```
 Remarque : 
@@ -96,7 +96,7 @@ Remarque :
 
 
 ## Q10
-
+E
 
 ```
 Remarque : 
@@ -112,7 +112,7 @@ Remarque :
 
 
 ## Q12
-
+D
 
 ```
 Remarque : 
@@ -168,7 +168,7 @@ Remarque :
 
 
 ## Q19
-
+B
 
 ```
 Remarque : 
